@@ -11,5 +11,5 @@ $push
 $back=cd ..
 $bach
 $del=rm -rf new_dir
-$dell
+$del
 
